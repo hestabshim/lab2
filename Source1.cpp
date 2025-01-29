@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	std::cout << "My name is Amber. Help me solve this equation for x. Ax + B = 0" << std::endl;
 	float A;
 	float B;
 	float X;
